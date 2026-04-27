@@ -1,6 +1,6 @@
 package com.poketienda.poketienda.model;
 
-import java.time.LocalDateTime;
+
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -23,6 +23,6 @@ public class Pokemon {
     private Integer id;
     private String nombre;
     private String peso;
-    private String tipo;
+    private String tipo
 
 }

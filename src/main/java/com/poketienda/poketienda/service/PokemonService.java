@@ -6,9 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.poketienda.poketienda.model.Pokemon;
-import com.poketienda.poketienda.model.Usuario;
+
 import com.poketienda.poketienda.repository.PokemonRepository;
-import com.poketienda.poketienda.repository.UsuarioRepository;
+
 
 
 @Service
